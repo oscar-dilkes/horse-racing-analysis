@@ -1,5 +1,5 @@
 # Exploratory Analysis of Horse Racing Data
-An exploratory analysis of horse racing data, achieved through the development of Python functions to achieve analyses of the provided dataset that are tailord but flexibile. The analysis uses common Python data science libraries, including pandas, matplotlib, and scipy.stats. The dataset undergoes a cleaning process, addressing missing values and converting incorrect formats. This code defines functions to calculate win data for specified columns, plot bar charts illustrating the relationship between selected columns and wins, and determine accuracy in predicting race outcomes based on forecasting and starting prices.
+An exploratory analysis of horse racing data, achieved through the development of Python functions to achieve analyses of the provided dataset that are tailored but flexible. The analysis uses common Python data science libraries, including pandas, matplotlib, and scipy.stats. The dataset undergoes a cleaning process, addressing missing values and converting incorrect formats. This code defines functions to calculate win data for specified columns, plot bar charts illustrating the relationship between selected columns and wins, and determine accuracy in predicting race outcomes based on forecasting and starting prices.
 ## Code Structure
 ### Data Cleaning
 ```python
