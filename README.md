@@ -49,7 +49,7 @@ raw_df = pd.read_csv("Horses.csv")
 # Clean data
 clean_df = clean_data(raw_df)
 
-# Analyze and plot
+# Analyse and plot
 win_data(clean_df, 'HorseID', 5, 5)
 win_data(clean_df, 'JockeyID', 5, 5)
 # ... (repeat for other columns)
